@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-
+import Image from "next/image";
 export default function Footer() {
   return (
     <footer className="bg-[#020617] text-gray-300 py-12 px-6">
@@ -10,7 +10,7 @@ export default function Footer() {
         {/* Column 1: Logo & Description */}
         <div>
           <div className="flex items-center gap-3 mb-4">
-            <img
+            <Image
               src="https://bserc.org/assets/img/logo.png"
               alt="BSERC Logo"
               width={50}

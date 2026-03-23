@@ -44,15 +44,29 @@ export default function Navbar() {
 
           {/* program */}
           <NavDropdown title="Programme">
-            <SubLink  href="/institutions/mou-form">One Day Workshop</SubLink>
-            <SubLink  href="/institutions/collaboration">All Programs</SubLink>
+            <SubLink  href="/programs/category/one-day-workshop">One Day Workshop</SubLink>
+            <SubLink  href="/programs">All Programs</SubLink>
+          </NavDropdown>
+
+          {/* administration */}
+          <NavDropdown title="Administration">
+            <SubLink  href="/">Chairman</SubLink>
+           <SubLink  href="/">Secretary</SubLink>
+           <SubLink  href="/">Director General</SubLink>
+           <SubLink  href="/">Director</SubLink>
+           <SubLink  href="/">Staff</SubLink>
+           <SubLink  href="/">Coordinator</SubLink>
+           <SubLink  href="/">Committee</SubLink>
           </NavDropdown>
 
           {/* Career Dropdown */}
           <NavDropdown title="Career">
-            <SubLink href="/summer-internship">Summer Internship</SubLink>
-            <SubLink href="/winter-internship">Winter Internship</SubLink>
-            <SubLink href="/job-vacancy">Job Vacancies</SubLink>
+            <SubLink href="/careers/summer-internship">Summer Internship</SubLink>
+            <SubLink href="/careers/winter-internship">Winter Internship</SubLink>
+            <SubLink href="/careers/winter-internship-results">Internship Results</SubLink>
+            <SubLink href="/careers/apprenticeship">Apprenticeship</SubLink>
+            <SubLink href="/careers/job-vacancy">Job Vacancy</SubLink>
+           
           </NavDropdown>
 
           {/* More Dropdown with Nested Submenus */}
@@ -66,26 +80,35 @@ export default function Navbar() {
               </div>
               {/* Nested Menu Container */}
               <ul className="invisible opacity-0 group-hover/nested:visible group-hover/nested:opacity-100 absolute left-full top-0 ml-[1px] min-w-[200px] bg-[#0b1220] border border-white/10 rounded-xl py-2 shadow-2xl transition-all duration-200">
-                <SubLink href="/people/faculty">Faculty</SubLink>
+                <SubLink href="/people/faculty">Faculty/Guest faculty</SubLink>
                 <SubLink href="/people/research-scholar">Research Scholar</SubLink>
                 <SubLink href="/people/staff">Staff</SubLink>
+                <SubLink href="/people/staff">Speaker</SubLink>
+                <SubLink href="/people/staff">FDP Members</SubLink>
               </ul>
             </li>
 
-            {/* NESTED HOVER: Tech Partners */}
+            {/* NESTED HOVER: Technology Partner */}
             <li className="relative group/nested">
               <div className="flex items-center justify-between px-4 py-2 hover:bg-white/5 hover:text-white cursor-pointer transition-colors">
-                Tech Partners <span className="text-[10px] ml-2">▶</span>
+                Technology Partner <span className="text-[10px] ml-2">▶</span>
               </div>
               <ul className="invisible opacity-0 group-hover/nested:visible group-hover/nested:opacity-100 absolute left-full top-0 ml-[1px] min-w-[180px] bg-[#0b1220] border border-white/10 rounded-xl py-2 shadow-2xl transition-all duration-200">
                 <SubLink href="/tech-partner#isro">ISRO</SubLink>
-                <SubLink href="/tech-partner#nasa">NASA</SubLink>
-                <SubLink href="/tech-partner#esa">ESA</SubLink>
+                <SubLink href="/tech-partner#nasa">ESA</SubLink>
+                <SubLink href="/tech-partner#esa">KAT</SubLink>
+                <SubLink href="/tech-partner#esa">JAXA</SubLink>
+                <SubLink href="/tech-partner#esa">NASA</SubLink>
+                 <SubLink href="/tech-partner#esa">UN-GGIM</SubLink>
               </ul>
             </li>
 
             <hr className="border-white/5 my-1" />
             <SubLink href="/membership">Membership</SubLink>
+            <SubLink href="/faq">Knowledge Hub (Learn)</SubLink>
+            <SubLink href="/faq">Missions</SubLink>
+            <SubLink href="/faq">Space Quiz</SubLink>
+            <SubLink href="/faq">Glossary</SubLink>
             <SubLink href="/faq">FAQ</SubLink>
           </NavDropdown>
 

@@ -1,0 +1,321 @@
+ 
+{
+ 
+  "results": [
+    {
+      "registrationId": "BSERC2025001",
+      "name": "Aarav Sharma",
+      "institute": "Indian Institute of Technology Delhi",
+      "score": 89.50,
+      "rank": 1,
+      "email": "aarav.s@iitd.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025002",
+      "name": "Priya Patel",
+      "institute": "National Institute of Technology Surat",
+      "score": 87.25,
+      "rank": 2,
+      "email": "priya.p@nits.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025003",
+      "name": "Rohan Kumar",
+      "institute": "Birla Institute of Technology & Science, Pilani",
+      "score": 85.00,
+      "rank": 3,
+      "email": "rohan.k@bits-pilani.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025004",
+      "name": "Sneha Reddy",
+      "institute": "International Institute of Information Technology Hyderabad",
+      "score": 82.75,
+      "rank": 4,
+      "email": "sneha.r@iiit.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025005",
+      "name": "Vikram Singh",
+      "institute": "Delhi Technological University",
+      "score": 79.90,
+      "rank": 5,
+      "email": "vikram.s@dtu.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025006",
+      "name": "Ananya Gupta",
+      "institute": "Indian Institute of Science Education and Research, Pune",
+      "score": 78.40,
+      "rank": 6,
+      "email": "ananya.g@iiserpune.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025007",
+      "name": "Karthik Menon",
+      "institute": "College of Engineering Pune",
+      "score": 76.85,
+      "rank": 7,
+      "email": "karthik.m@coep.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025008",
+      "name": "Ishita Joshi",
+      "institute": "Vellore Institute of Technology",
+      "score": 75.20,
+      "rank": 8,
+      "email": "ishita.j@vit.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025009",
+      "name": "Arjun Nair",
+      "institute": "Amrita Vishwa Vidyapeetham",
+      "score": 73.60,
+      "rank": 9,
+      "email": "arjun.n@amrita.edu",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025010",
+      "name": "Meera Iyer",
+      "institute": "PSG College of Technology",
+      "score": 72.15,
+      "rank": 10,
+      "email": "meera.i@psgtech.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025011",
+      "name": "Devansh Agarwal",
+      "institute": "Jaypee Institute of Information Technology",
+      "score": 70.80,
+      "rank": 11,
+      "email": "devansh.a@jiit.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025012",
+      "name": "Pooja Desai",
+      "institute": "Sardar Vallabhbhai National Institute of Technology",
+      "score": 69.45,
+      "rank": 12,
+      "email": "pooja.d@svnit.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025013",
+      "name": "Rahul Verma",
+      "institute": "Motilal Nehru National Institute of Technology",
+      "score": 68.30,
+      "rank": 13,
+      "email": "rahul.v@mnnit.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025014",
+      "name": "Kavya Pillai",
+      "institute": "Cochin University of Science and Technology",
+      "score": 67.10,
+      "rank": 14,
+      "email": "kavya.p@cusat.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025015",
+      "name": "Aditya Rao",
+      "institute": "Manipal Institute of Technology",
+      "score": 65.95,
+      "rank": 15,
+      "email": "aditya.r@manipal.edu",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025016",
+      "name": "Neha Kapoor",
+      "institute": "Thapar Institute of Engineering and Technology",
+      "score": 64.50,
+      "rank": 16,
+      "email": "neha.k@thapar.edu",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025017",
+      "name": "Siddharth Bose",
+      "institute": "Jadavpur University",
+      "score": 63.25,
+      "rank": 17,
+      "email": "siddharth.b@jadavpuruniversity.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025018",
+      "name": "Riya Malhotra",
+      "institute": "Indraprastha Institute of Information Technology Delhi",
+      "score": 62.00,
+      "rank": 18,
+      "email": "riya.m@iiitd.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025019",
+      "name": "Harsh Tiwari",
+      "institute": "Indian Institute of Information Technology Allahabad",
+      "score": 60.85,
+      "rank": 19,
+      "email": "harsh.t@iiita.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025020",
+      "name": "Divya Krishnan",
+      "institute": "National Institute of Technology Calicut",
+      "score": 59.70,
+      "rank": 20,
+      "email": "divya.k@nitc.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025021",
+      "name": "Akash Pandey",
+      "institute": "Indian Institute of Technology Bombay",
+      "score": 58.40,
+      "rank": 21,
+      "email": "akash.p@iitb.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025022",
+      "name": "Shreya Saxena",
+      "institute": "Indian Institute of Technology Kanpur",
+      "score": 57.25,
+      "rank": 22,
+      "email": "shreya.s@iitk.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025023",
+      "name": "Nikhil Jain",
+      "institute": "Indian Institute of Technology Roorkee",
+      "score": 56.10,
+      "rank": 23,
+      "email": "nikhil.j@iitr.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025024",
+      "name": "Tanvi Shah",
+      "institute": "Indian Institute of Technology Madras",
+      "score": 54.95,
+      "rank": 24,
+      "email": "tanvi.s@iitm.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025025",
+      "name": "Yash Mehta",
+      "institute": "Indian Institute of Technology Kharagpur",
+      "score": 53.80,
+      "rank": 25,
+      "email": "yash.m@iitkgp.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025026",
+      "name": "Pallavi Reddy",
+      "institute": "Indian Institute of Technology Hyderabad",
+      "score": 52.65,
+      "rank": 26,
+      "email": "pallavi.r@iith.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025027",
+      "name": "Varun Chopra",
+      "institute": "Indian Institute of Technology Gandhinagar",
+      "score": 51.90,
+      "rank": 27,
+      "email": "varun.c@iitgn.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025028",
+      "name": "Anjali Mishra",
+      "institute": "Indian Institute of Technology Bhubaneswar",
+      "score": 51.35,
+      "rank": 28,
+      "email": "anjali.m@iitbbs.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025029",
+      "name": "Rajat Sinha",
+      "institute": "Indian Institute of Technology Patna",
+      "score": 51.05,
+      "rank": 29,
+      "email": "rajat.s@iitp.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025030",
+      "name": "Simran Kaur",
+      "institute": "Indian Institute of Technology Ropar",
+      "score": 50.85,
+      "rank": 30,
+      "email": "simran.k@iitrpr.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025031",
+      "name": "Manav Khanna",
+      "institute": "Indian Institute of Technology Jammu",
+      "score": 50.75,
+      "rank": 31,
+      "email": "manav.k@iitjammu.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025032",
+      "name": "Ishani Dutta",
+      "institute": "Indian Institute of Technology Palakkad",
+      "score": 50.70,
+      "rank": 32,
+      "email": "ishani.d@iitpkd.ac.in",
+      "selected": true
+    },
+    {
+      "registrationId": "BSERC2025033",
+      "name": "Kunal Agarwal",
+      "institute": "National Institute of Technology Warangal",
+      "score": 50.65,
+      "rank": 33,
+      "email": "kunal.a@nitw.ac.in",
+      "selected": false
+    },
+    {
+      "registrationId": "BSERC2025034",
+      "name": "Nidhi Bansal",
+      "institute": "National Institute of Technology Kurukshetra",
+      "score": 50.40,
+      "rank": 34,
+      "email": "nidhi.b@nitkkr.ac.in",
+      "selected": false
+    },
+    {
+      "registrationId": "BSERC2025035",
+      "name": "Sahil Gupta",
+      "institute": "National Institute of Technology Hamirpur",
+      "score": 49.95,
+      "rank": 35,
+      "email": "sahil.g@nith.ac.in",
+      "selected": false
+    }
+  ]
+}
