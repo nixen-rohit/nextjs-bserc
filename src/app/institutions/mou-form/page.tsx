@@ -556,16 +556,7 @@ export default function MoURequestPage() {
           </form>
         </div>
 
-        {/* Footer Note */}
-        <p className="text-center text-slate-500 text-sm mt-8">
-          <svg className="w-4 h-4 inline-block mr-1 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
-          </svg>
-          Questions? Contact us at{" "}
-          <a href="mailto:mou@bserc.org" className="text-blue-400 hover:text-blue-300 underline transition-colors">
-            mou@bserc.org
-          </a>
-        </p>
+        
       </div>
     </section>
   );
