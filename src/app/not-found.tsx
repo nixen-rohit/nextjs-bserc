@@ -1,6 +1,6 @@
 "use client"
 import Link from 'next/link'
-import { Button } from "@/components/ui/button"
+ 
  
 export default function NotFound() {
   return (
@@ -12,7 +12,8 @@ export default function NotFound() {
           The page you&apos;re looking for doesn&apos;t exist or has been moved.
         </p>
         <Link href="/">
-          <Button variant="default" size="lg">Return to Earth</Button>
+           
+          <button className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 border border-blue-700 rounded' >Reture to Earth</button>
         </Link>
       </div>
     </div>
